@@ -1,3 +1,4 @@
+! https://github.com/uBlockOrigin/uAssets/pull/1575/files
 Shopify
 	* shopify.com
 		_ cdn.shopify.com *
