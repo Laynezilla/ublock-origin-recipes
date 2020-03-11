@@ -1,13 +1,21 @@
+! uMatrix: Custom ruleset recipes
+! Title: Custom rulesets for forgotten websites
+! Maintainer: me
+!
+! Lines starting with character "!" are ignored.
+! Character "_" is an alias for "currently selected scope".
+! An empty line MUST be used to separate distinct ruleset recipes.
+!
+! Please contribute ruleset recipes for the benefit of all other users:
+! https://github.com/uBlockOrigin/uAssets/tree/master/recipes
+
+
 ! https://github.com/uBlockOrigin/uAssets/pull/1575/files
-
-
 Shopify
 	* shopify.com
 		_ shopify.com *
-		_ cdn.shopify.com *
 		_ cdn.shopify.com script
 		_ cdn.shopify.com xhr
-		_ pay.shopify.com *
 		_ pay.shopify.com xhr
 		_ shopifycdn.com *
 		_ productreviews.shopifycdn.com script
