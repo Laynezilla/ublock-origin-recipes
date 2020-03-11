@@ -3,6 +3,11 @@
 
 Shopify
 	* shopify.com
+		_ shopify.com *
 		_ cdn.shopify.com *
 		_ cdn.shopify.com script
 		_ cdn.shopify.com xhr
+		_ pay.shopify.com *
+		_ pay.shopify.com xhr
+		_ shopifycdn.com *
+		_ productreviews.shopifycdn.com script
