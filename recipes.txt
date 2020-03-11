@@ -1,4 +1,4 @@
-! uMatrix: Custom ruleset recipes
+! uMatrix: Ruleset recipes 1.0
 ! Title: Custom rulesets for forgotten websites
 ! Maintainer: me
 !
