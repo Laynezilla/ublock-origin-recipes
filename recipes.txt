@@ -13,9 +13,9 @@
 ! https://github.com/uBlockOrigin/uAssets/pull/1575/files
 Shopify as 3rd-party
 	* shopify.com
-!		_ shopify.com *
+		_ shopify.com *
 		_ cdn.shopify.com script
 		_ cdn.shopify.com xhr
 		_ pay.shopify.com xhr
-!		_ shopifycdn.com *
+		_ shopifycdn.com *
 		_ productreviews.shopifycdn.com script
