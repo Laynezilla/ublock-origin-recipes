@@ -23,3 +23,13 @@ Shopify as 3rd-party
 		_ shopifycs.com *
 		_ checkout.us.shopifycs.com frame
 		_ shopifysvc.com *
+
+! Not sure if this will work yet, needs testing
+Paypal as 3rd-party
+	* paypal.com
+		_ paypal.com *
+		_ c.paypal.com frame
+		_ checkout.paypal.com frame
+		_ www.paypal.com frame
+!		_ paypalobjects.com *
+!		_ www.paypalobjects.com frame
