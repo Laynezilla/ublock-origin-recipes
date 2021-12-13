@@ -18,6 +18,7 @@ Shopify as 3rd-party
 		_ cdn.shopify.com xhr
 		_ pay.shopify.com xhr
 		_ checkout.shopify.com frame
+		_ checkout.shopifycs.com frame
 		_ shopifycdn.com *
 		_ productreviews.shopifycdn.com script
 		_ shopifycs.com *
