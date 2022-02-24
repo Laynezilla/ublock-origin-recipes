@@ -25,12 +25,17 @@ Shopify as 3rd-party
 		_ checkout.us.shopifycs.com frame
 		_ shopifysvc.com *
 
-! Not sure if this will work yet, needs testing
+! Works so far, may need more testing
 Paypal as 3rd-party
 	* paypal.com
 		_ paypal.com *
 		_ c.paypal.com frame
 		_ checkout.paypal.com frame
 		_ www.paypal.com frame
-!		_ paypalobjects.com *
-!		_ www.paypalobjects.com frame
+		_ paypalobjects.com *
+		_ www.paypalobjects.com frame
+
+Braintree as 3rd-party
+	* braintreegateway.com
+		_ braintreegateway.com *
+		_ braintree-api.com *
