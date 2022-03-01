@@ -39,3 +39,10 @@ Braintree as 3rd-party
 	* braintreegateway.com
 		_ braintreegateway.com *
 		_ braintree-api.com *
+
+Recaptcha as 3rd-party
+	* recaptcha.net
+		_ recaptcha.net *
+		_ www.recaptcha.net frame
+		_ www.gstatic.com script
+		_ pay.google.com frame
