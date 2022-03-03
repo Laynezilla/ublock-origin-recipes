@@ -43,6 +43,7 @@ Braintree as 3rd-party
 Recaptcha as 3rd-party
 	* recaptcha.net
 		_ recaptcha.net *
+		_ recaptcha.net frame
 		_ www.recaptcha.net frame
 		_ www.gstatic.com script
 		_ pay.google.com frame
