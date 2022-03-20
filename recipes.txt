@@ -47,3 +47,8 @@ Recaptcha as 3rd-party
 		_ www.recaptcha.net frame
 		_ www.gstatic.com script
 		_ pay.google.com frame
+
+Hcaptcha as 3rd-party
+	* hcaptcha.com
+		_ hcaptcha.com *
+		_ newassets.hcaptcha.com frame
