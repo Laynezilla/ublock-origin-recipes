@@ -34,6 +34,13 @@ Paypal as 3rd-party
 		_ www.paypal.com frame
 		_ paypalobjects.com *
 		_ www.paypalobjects.com frame
+	* paypalobjects.com
+		_ paypal.com *
+		_ c.paypal.com frame
+		_ checkout.paypal.com frame
+		_ www.paypal.com frame
+		_ paypalobjects.com *
+		_ www.paypalobjects.com frame
 
 Braintree as 3rd-party
 	* braintreegateway.com
