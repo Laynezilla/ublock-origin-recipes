@@ -34,6 +34,8 @@ Paypal as 3rd-party
 		_ www.paypal.com frame
 		_ paypalobjects.com *
 		_ www.paypalobjects.com frame
+
+Paypalobjects as 3rd-party
 	* paypalobjects.com
 		_ paypal.com *
 		_ c.paypal.com frame
