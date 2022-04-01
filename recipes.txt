@@ -35,14 +35,15 @@ Paypal as 3rd-party
 		_ paypalobjects.com *
 		_ www.paypalobjects.com frame
 
-Paypalobjects as 3rd-party
-	* paypalobjects.com
-		_ paypal.com *
-		_ c.paypal.com frame
-		_ checkout.paypal.com frame
-		_ www.paypal.com frame
-		_ paypalobjects.com *
-		_ www.paypalobjects.com frame
+! This doesn't work for some reason. Needed because some times paypalobjects shows up without the paypal.com domain
+!Paypalobjects as 3rd-party
+!	* paypalobjects.com
+!		_ paypal.com *
+!		_ c.paypal.com frame
+!		_ checkout.paypal.com frame
+!		_ www.paypal.com frame
+!		_ paypalobjects.com *
+!		_ www.paypalobjects.com frame
 
 Braintree as 3rd-party
 	* braintreegateway.com
