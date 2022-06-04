@@ -67,4 +67,4 @@ Brightcove as 3rd-party (need to also whitelist content server)
 	* brightcove.net
 		_ brightcove.net *
 		_ brightcove.com *
-		_ boltdns.net *
+		_ manifest.prod.boltdns.net XHR
